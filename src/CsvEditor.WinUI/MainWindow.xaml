@@ -1,0 +1,9 @@
+<Window
+    x:Class="CsvEditor.WinUI.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="CSV Editor (WinUI)">
+    <Grid>
+        <TextBlock Text="CSV Editor - WinUI Prototype" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="24"/>
+    </Grid>
+</Window>
